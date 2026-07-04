@@ -3,3 +3,6 @@ SQLAlchemy==2.0.36
 aiosqlite==0.20.0
 python-dotenv==1.0.1
 greenlet==3.1.1
+git add requirements.txt
+git commit -m "Tambah asyncpg untuk PostgreSQL"
+git push
